@@ -2,36 +2,32 @@
 
 You can use the [editor on GitHub](https://github.com/meetwsr/meetwsr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+上面那几行最好留下，因为点击之后可用很方便地编辑你的网页哈
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+markdown是一种轻量编辑语言
 
-```markdown
-Syntax highlighted code block
+``` 
+这是代码
+用三个`,包住的部分，就会代码块的形式展现
 
-# Header 1
-## Header 2
-### Header 3
+# 一级标题   
+## 二级标题
+### 三级标题
 
-- Bulleted
-- List
+在markdown里面，你用一个#再加一个空格就可以表示一级标题。二级三级标题同理
+- 无序列表
 
-1. Numbered
-2. List
+1. 有序列表
+2. 有序列表
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+[这是百度](https://www.baidu.com/) 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meetwsr/meetwsr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 这是我写的一级标题
+[这是百度](https://www.baidu.com/) 
+- 这是列表
+- [西安财经教务处](http://jiaowu.xaufe.edu.cn/) 
